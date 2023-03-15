@@ -1,0 +1,16 @@
+PODS:
+  - FrameLogin (1.0.0)
+
+DEPENDENCIES:
+  - FrameLogin (from `../LoginFrame/`)
+
+EXTERNAL SOURCES:
+  FrameLogin:
+    :path: "../LoginFrame/"
+
+SPEC CHECKSUMS:
+  FrameLogin: 6e68ce735730ce808581b70e5a6d336f70768e3f
+
+PODFILE CHECKSUM: 89e746fedeac163c4d9909cce5b272ede98a9fa0
+
+COCOAPODS: 1.11.3

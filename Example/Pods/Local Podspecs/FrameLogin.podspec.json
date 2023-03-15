@@ -1,0 +1,21 @@
+{
+  "name": "FrameLogin",
+  "version": "1.0.0",
+  "summary": "An ugly Login page",
+  "homepage": "https://github.com/CanopusiOSs/FrameLogin.git",
+  "license": "MIT",
+  "authors": {
+    "Nirmal": "nirmal.patel@canopusinfosystems.com"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://github.com/CanopusiOSs/FrameLogin.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "LoginFrame/**/*.swift",
+  "frameworks": "UIKit",
+  "swift_versions": "5.0.0",
+  "swift_version": "5.0.0"
+}
